@@ -27,13 +27,3 @@ It demonstrates data cleaning, feature normalization, training, and evaluation u
 - **Seaborn**
 
 ---
-
-## 📁 Project Structure
-
-zameen.com-price-prediction-gradient-descent/
-│
-├── data/
-│     └── zameen_synthetic_1000.csv
-│
-├── notebooks/
-      └── zameen_regression_manual.ipynb
